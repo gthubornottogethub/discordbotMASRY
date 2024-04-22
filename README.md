@@ -1,6 +1,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-[!](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VdUoFl4UDBk?si=oPloc_w5T4eCnH-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # نبذة سريعة 
 
