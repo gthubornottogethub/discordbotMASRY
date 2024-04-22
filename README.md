@@ -1,7 +1,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VdUoFl4UDBk?si=oPloc_w5T4eCnH-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[https://img.youtube.com/vi/VdUoFl4UDBk/maxresdefault.jpg](https://www.youtube.com/watch?v=VdUoFl4UDBk)
 # نبذة سريعة 
 
 ادا مشروع بوت متكامل، حاجة زي mee6 بس بيتفاعل معاك بالعامية المصرية. حاليا فيه 10 كومندات، كلهم prefix. نص الكومندات دي تقريبا للتحكم في السيرفر: معلومات عن السيرفر، ميوت، بان. والنص التاني كومندات عادية الكل ممكن يستخدمها. 
