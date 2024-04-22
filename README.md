@@ -1,6 +1,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-# [![اتفرج ع البوت](https://www.youtube.com/watch?v=VdUoFl4UDBk)
+# ![اتفرج ع البوت](https://www.youtube.com/watch?v=VdUoFl4UDBk)
 
 # نبذة سريعة 
 
