@@ -1,5 +1,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 # نبذة سريعة 
 
 ادا مشروع بوت متكامل، حاجة زي mee6 بس بيتفاعل معاك بالعامية المصرية. حاليا فيه 10 كومندات، كلهم prefix. نص الكومندات دي تقريبا للتحكم في السيرفر: معلومات عن السيرفر، ميوت، بان. والنص التاني كومندات عادية الكل ممكن يستخدمها. 
@@ -20,4 +22,11 @@
  
     # ازاي تستخدم البروجكت
 
-    - ادخل علي [اللينك دا](https://discordjs.guide/preparations/setting-up-a-bot-application.html)
+    - ادخل علي [اللينك دا](https://discordjs.guide/preparations/setting-up-a-bot-application.html) وامشي ورا الخطوات علشان تعمل ابليكيشن بوت لنفسك وتدخله السيرفر بتاعك
+    - نزل البروجكت من هنا من github
+    - حط التوكن بتاعك بدل التوكن بتاعي
+    - عدل في الفايل اللي اسمه index.js علشان تضيف كوماندات جديدة.
+    - افتح الcmd واكتب الكود التالي علشان تشغل البوت ويبقي اونلاين : 
+> cd [مكان البروجكت عندك]
+> node index.js
+ ملحوظة: لازم يبقي عندك nodejs، لو مش عندك نزله من [هنا](https://nodejs.org/en/download)
